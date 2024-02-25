@@ -1,0 +1,1723 @@
+fileFormatVersion: 2
+guid: 63f9a58ea713f45d4ad5bd29641c119e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1605437256206386104
+    second: sprite_warming_new3_0
+  - first:
+      213: 2305255910388021936
+    second: sprite_warming_new3_1
+  - first:
+      213: -3616234361772715788
+    second: sprite_warming_new3_2
+  - first:
+      213: 4795895852815781741
+    second: sprite_warming_new3_3
+  - first:
+      213: -4562858642849176559
+    second: sprite_warming_new3_4
+  - first:
+      213: 7944598790810120873
+    second: sprite_warming_new3_5
+  - first:
+      213: -4061904842579924999
+    second: sprite_warming_new3_6
+  - first:
+      213: 1424596235389928302
+    second: sprite_warming_new3_7
+  - first:
+      213: 2954557997979964643
+    second: sprite_warming_new3_8
+  - first:
+      213: -3092529938367745491
+    second: sprite_warming_new3_9
+  - first:
+      213: 5316286032331036349
+    second: sprite_warming_new3_10
+  - first:
+      213: 6069675196623466439
+    second: sprite_warming_new3_11
+  - first:
+      213: 766214851614034782
+    second: sprite_warming_new3_12
+  - first:
+      213: -630114898165648870
+    second: sprite_warming_new3_13
+  - first:
+      213: -4307836219879220889
+    second: sprite_warming_new3_14
+  - first:
+      213: 3401009987236764106
+    second: sprite_warming_new3_15
+  - first:
+      213: 3786445391769352613
+    second: sprite_warming_new3_16
+  - first:
+      213: -9075629786058759696
+    second: sprite_warming_new3_17
+  - first:
+      213: 381051045849852102
+    second: sprite_warming_new3_18
+  - first:
+      213: 1916524216854326226
+    second: sprite_warming_new3_19
+  - first:
+      213: -6474517374585585801
+    second: sprite_warming_new3_20
+  - first:
+      213: -150955722561825842
+    second: sprite_warming_new3_21
+  - first:
+      213: 6311115045421970994
+    second: sprite_warming_new3_22
+  - first:
+      213: -4608741535922194816
+    second: sprite_warming_new3_23
+  - first:
+      213: -49242273272341251
+    second: sprite_warming_new3_24
+  - first:
+      213: 3302121700617535910
+    second: sprite_warming_new3_25
+  - first:
+      213: -910840176108597882
+    second: sprite_warming_new3_26
+  - first:
+      213: -2613702342002443426
+    second: sprite_warming_new3_27
+  - first:
+      213: -1957598758810510084
+    second: sprite_warming_new3_28
+  - first:
+      213: -9182272183093817167
+    second: sprite_warming_new3_29
+  - first:
+      213: -791374615506021014
+    second: sprite_warming_new3_30
+  - first:
+      213: -7021282140320253207
+    second: sprite_warming_new3_31
+  - first:
+      213: -9217984068326928827
+    second: sprite_warming_new3_32
+  - first:
+      213: -1277700711759339371
+    second: sprite_warming_new3_33
+  - first:
+      213: -1195730524848462572
+    second: sprite_warming_new3_34
+  - first:
+      213: 289944420406676164
+    second: sprite_warming_new3_35
+  - first:
+      213: -8403223192518289315
+    second: sprite_warming_new3_36
+  - first:
+      213: -3254730009152980020
+    second: sprite_warming_new3_37
+  - first:
+      213: 5538403924416199890
+    second: sprite_warming_new3_38
+  - first:
+      213: 1597115402829972393
+    second: sprite_warming_new3_39
+  - first:
+      213: -3021969498415861404
+    second: sprite_warming_new3_40
+  - first:
+      213: 2565639903031881636
+    second: sprite_warming_new3_41
+  - first:
+      213: -7767959203549704909
+    second: sprite_warming_new3_42
+  - first:
+      213: 8897852912253137254
+    second: sprite_warming_new3_43
+  - first:
+      213: 5245068786869521699
+    second: sprite_warming_new3_44
+  - first:
+      213: -5630944040995627005
+    second: sprite_warming_new3_45
+  - first:
+      213: -7727427269660262343
+    second: sprite_warming_new3_46
+  - first:
+      213: -6891237998305241298
+    second: sprite_warming_new3_47
+  - first:
+      213: 2510363075088479236
+    second: sprite_warming_new3_48
+  - first:
+      213: -868457505498388050
+    second: sprite_warming_new3_49
+  - first:
+      213: 5712950391928236247
+    second: sprite_warming_new3_50
+  - first:
+      213: 2086642383748492181
+    second: sprite_warming_new3_51
+  - first:
+      213: 1725340565837086778
+    second: sprite_warming_new3_52
+  - first:
+      213: 3891267777604947602
+    second: sprite_warming_new3_53
+  - first:
+      213: -6236522804253573723
+    second: sprite_warming_new3_54
+  - first:
+      213: 4675984132564432949
+    second: sprite_warming_new3_55
+  - first:
+      213: -6528131258071836299
+    second: sprite_warming_new3_56
+  - first:
+      213: -6675154071009570079
+    second: sprite_warming_new3_57
+  - first:
+      213: 3778311061350451605
+    second: sprite_warming_new3_58
+  - first:
+      213: 6144610824085265964
+    second: sprite_warming_new3_59
+  - first:
+      213: -804962559286812135
+    second: sprite_warming_new3_60
+  - first:
+      213: -3681800615102131630
+    second: sprite_warming_new3_61
+  - first:
+      213: 4998516841617014158
+    second: sprite_warming_new3_62
+  - first:
+      213: -4190302535000650454
+    second: sprite_warming_new3_63
+  - first:
+      213: -8769800313700664592
+    second: sprite_warming_new3_64
+  - first:
+      213: 1834333242583630141
+    second: sprite_warming_new3_65
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_warming_new3_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2276
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30c55bda8a74610800000000000000
+      internalID: 1605437256206386104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2274
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3c07690aedff10800000000000000
+      internalID: 2305255910388021936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2274
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d9f1f10e80ddc0800000000000000
+      internalID: -3616234361772715788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2276
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f8ade4ed17e8240800000000000000
+      internalID: 4795895852815781741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2275
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11467a84d387da0c0800000000000000
+      internalID: -4562858642849176559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2148
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a23c390282e04e60800000000000000
+      internalID: 7944598790810120873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2146
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7a59a011731a7c0800000000000000
+      internalID: -4061904842579924999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2153
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6386ce6abe25c310800000000000000
+      internalID: 1424596235389928302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_8
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1910
+        width: 615
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e492e168d2b00920800000000000000
+      internalID: 2954557997979964643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2036
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22745ee7602515d0800000000000000
+      internalID: -3092529938367745491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2032
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65671cafd37c940800000000000000
+      internalID: 5316286032331036349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1915
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfadbcce61db3450800000000000000
+      internalID: 6069675196623466439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1915
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4514195422aa00800000000000000
+      internalID: 766214851614034782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1913
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b72fa6d16147f0800000000000000
+      internalID: -630114898165648870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1795
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769998b28cd7734c0800000000000000
+      internalID: -4307836219879220889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1795
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac99dc66090d23f20800000000000000
+      internalID: 3401009987236764106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1788
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b3d9b5082c8430800000000000000
+      internalID: 3786445391769352613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1791
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f163095bc2ec0280800000000000000
+      internalID: -9075629786058759696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1795
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8eb2548e3c94500800000000000000
+      internalID: 381051045849852102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1798
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db290dfe9cd89a10800000000000000
+      internalID: 1916524216854326226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_20
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1795
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f3bb350c4e526a0800000000000000
+      internalID: -6474517374585585801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1668
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d3e3f192b7edf0800000000000000
+      internalID: -150955722561825842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1528
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236fff232b5959750800000000000000
+      internalID: 6311115045421970994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1410
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f4c1cdf57a00c0800000000000000
+      internalID: -4608741535922194816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1412
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc5ba1d96e015ff0800000000000000
+      internalID: -49242273272341251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1294
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1ca6af03e73dd20800000000000000
+      internalID: 3302121700617535910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1294
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d84e78fab0c53f0800000000000000
+      internalID: -910840176108597882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1293
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b765461934abbd0800000000000000
+      internalID: -2613702342002443426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1297
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9a58fc4635d4e0800000000000000
+      internalID: -1957598758810510084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1297
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b01eb76914029080800000000000000
+      internalID: -9182272183093817167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1299
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a659086eaf87405f0800000000000000
+      internalID: -791374615506021014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1187
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaba6ef7156f8e90800000000000000
+      internalID: -7021282140320253207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1067
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec92e2454231080800000000000000
+      internalID: -9217984068326928827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1066
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902252e8f1b44ee0800000000000000
+      internalID: -1277700711759339371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1071
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e0534c69e76fe0800000000000000
+      internalID: -1195730524848462572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 946
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca42f60ae6160400800000000000000
+      internalID: 289944420406676164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 942
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589f915701c16b80800000000000000
+      internalID: -8403223192518289315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 946
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf1ac0d40e4d2d0800000000000000
+      internalID: -3254730009152980020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 810
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcf479860d5cdc40800000000000000
+      internalID: 5538403924416199890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 817
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a34cfa3ff71a2610800000000000000
+      internalID: 1597115402829972393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 815
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617bd490cecf06d0800000000000000
+      internalID: -3021969498415861404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 816
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af68c106ebfa9320800000000000000
+      internalID: 2565639903031881636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_42
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 817
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d81b2c24aa23490800000000000000
+      internalID: -7767959203549704909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 678
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f582b4168b7b70800000000000000
+      internalID: 8897852912253137254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 678
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dc8d7a54a3ac840800000000000000
+      internalID: 5245068786869521699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 678
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006a5e8a3edad1b0800000000000000
+      internalID: -5630944040995627005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_46
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 678
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930cb3407d9a2c490800000000000000
+      internalID: -7727427269660262343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 678
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2797584d876d50a0800000000000000
+      internalID: -6891237998305241298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_48
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 678
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404f7e39ae996d220800000000000000
+      internalID: 2510363075088479236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea92f32008e92f3f0800000000000000
+      internalID: -868457505498388050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 540
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8af4aec1a784f40800000000000000
+      internalID: 5712950391928236247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 264
+        width: 211
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6a98413e35fc10800000000000000
+      internalID: 2086642383748492181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 540
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a308a477a14a1f710800000000000000
+      internalID: 1725340565837086778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 155
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e011a4d6f800630800000000000000
+      internalID: 3891267777604947602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_54
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 540
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb7d25d8b6379a0800000000000000
+      internalID: -6236522804253573723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 274
+        width: 211
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538bddc4bce64e040800000000000000
+      internalID: 4675984132564432949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_56
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 143
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5791183553b6765a0800000000000000
+      internalID: -6528131258071836299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_57
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 540
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2d8782db61d53a0800000000000000
+      internalID: -6675154071009570079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 540
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59909b654e14f6430800000000000000
+      internalID: 3778311061350451605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_59
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 540
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5f9c2dfa064550800000000000000
+      internalID: 6144610824085265964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_60
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 542
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912683431d234d4f0800000000000000
+      internalID: -804962559286812135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252d50bf8dd97ecc0800000000000000
+      internalID: -3681800615102131630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 17
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8db36c859c4e5540800000000000000
+      internalID: 4998516841617014158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_63
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 17
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d0edbab0e09d5c0800000000000000
+      internalID: -4190302535000650454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 20
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa33ce34196b4680800000000000000
+      internalID: -8769800313700664592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_warming_new3_65
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 263
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3143eb8d5cd47910800000000000000
+      internalID: 1834333242583630141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

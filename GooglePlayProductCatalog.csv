@@ -1,0 +1,3 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+noah_googleplay,published,managed_by_android,false,"ja_JP;ノア;最高難易度「ノア」を開放します。;en_US;Noah;Unlock the most difficult mode ""Noah"".",true,610000000,
+bgm_googleplay,published,managed_by_android,false,"ja_JP;Brand New Earth;ゲームBGM「Brand New Earth」を開放します。;ja_JP;Brand New Earth;Unlock the game BGM ""Brand New Earth"".",true,370000000,

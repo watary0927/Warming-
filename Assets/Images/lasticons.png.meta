@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: 20f1b2a9c4ed34a65be2049a6499d2a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4236178266563322821
+    second: lasticons_0
+  - first:
+      213: -4081465244122101793
+    second: lasticons_1
+  - first:
+      213: 1905298116036209885
+    second: lasticons_2
+  - first:
+      213: -8800270680785604806
+    second: lasticons_3
+  - first:
+      213: -8099116299320188874
+    second: lasticons_4
+  - first:
+      213: 5000507664308440594
+    second: lasticons_5
+  - first:
+      213: 7542501209256026715
+    second: lasticons_6
+  - first:
+      213: 1963052322512186759
+    second: lasticons_7
+  - first:
+      213: 7441100981601417959
+    second: lasticons_8
+  - first:
+      213: -5716352356202078993
+    second: lasticons_9
+  - first:
+      213: 2376659754719856649
+    second: lasticons_10
+  - first:
+      213: -9110871320494273341
+    second: lasticons_11
+  - first:
+      213: -6605041200413831899
+    second: lasticons_12
+  - first:
+      213: 6996714096454897788
+    second: lasticons_13
+  - first:
+      213: 7760434087331987267
+    second: lasticons_14
+  - first:
+      213: 8314979216995061857
+    second: lasticons_15
+  - first:
+      213: 5758847431815505618
+    second: lasticons_16
+  - first:
+      213: 8077523829850026680
+    second: lasticons_17
+  - first:
+      213: 4415710524586208491
+    second: lasticons_18
+  - first:
+      213: 3170134176609580147
+    second: lasticons_19
+  - first:
+      213: -4542963433760787683
+    second: lasticons_20
+  - first:
+      213: -6987146474751211354
+    second: lasticons_21
+  - first:
+      213: -4570976316241310286
+    second: lasticons_22
+  - first:
+      213: 3983588698668701772
+    second: lasticons_23
+  - first:
+      213: -6183239259475036850
+    second: lasticons_24
+  - first:
+      213: -1696312699764874191
+    second: lasticons_25
+  - first:
+      213: -1718916433680206867
+    second: lasticons_26
+  - first:
+      213: -7465892100432923987
+    second: lasticons_27
+  - first:
+      213: -3694194839076739677
+    second: lasticons_28
+  - first:
+      213: 6298387683579145237
+    second: lasticons_29
+  - first:
+      213: -1049724912122900063
+    second: lasticons_30
+  - first:
+      213: -6189043758218839370
+    second: lasticons_31
+  - first:
+      213: 3441114190146168227
+    second: lasticons_32
+  - first:
+      213: -66090924100120153
+    second: lasticons_33
+  - first:
+      213: -7953660932146772681
+    second: lasticons_34
+  - first:
+      213: 2294546870691070834
+    second: lasticons_35
+  - first:
+      213: -6406957175938091109
+    second: lasticons_36
+  - first:
+      213: 4498060566184311552
+    second: lasticons_37
+  - first:
+      213: -355215044740194211
+    second: lasticons_38
+  - first:
+      213: -8778635763092333395
+    second: lasticons_39
+  - first:
+      213: -7628928433933721453
+    second: lasticons_40
+  - first:
+      213: 7675840520673864291
+    second: lasticons_41
+  - first:
+      213: -4807094352450495676
+    second: lasticons_42
+  - first:
+      213: -7576718178583834823
+    second: lasticons_43
+  - first:
+      213: -458161866947367995
+    second: lasticons_44
+  - first:
+      213: -4207769276613200201
+    second: lasticons_45
+  - first:
+      213: -1635990074323150807
+    second: lasticons_46
+  - first:
+      213: -5963338898632358622
+    second: lasticons_47
+  - first:
+      213: 2843925488105539433
+    second: lasticons_48
+  - first:
+      213: 4465315982601451845
+    second: lasticons_49
+  - first:
+      213: -6331171753029495125
+    second: lasticons_50
+  - first:
+      213: -8320302411055951985
+    second: lasticons_51
+  - first:
+      213: -7311045473299455401
+    second: lasticons_52
+  - first:
+      213: 6569336253962424421
+    second: lasticons_53
+  - first:
+      213: -2995865467063990593
+    second: lasticons_54
+  - first:
+      213: -1020072185028544882
+    second: lasticons_55
+  - first:
+      213: -5304987590537329749
+    second: lasticons_56
+  - first:
+      213: -6080503550293515779
+    second: lasticons_57
+  - first:
+      213: 6225108883862273441
+    second: lasticons_58
+  - first:
+      213: 3238278232953379529
+    second: lasticons_59
+  - first:
+      213: 5269825277287567053
+    second: lasticons_60
+  - first:
+      213: 2281713144960789266
+    second: lasticons_61
+  - first:
+      213: 3756024379832072110
+    second: lasticons_62
+  - first:
+      213: 1857680843884555501
+    second: lasticons_63
+  - first:
+      213: -969554470267370271
+    second: lasticons_64
+  - first:
+      213: -1483252178620555948
+    second: lasticons_65
+  - first:
+      213: 5942711400195577673
+    second: lasticons_66
+  - first:
+      213: 2665762848365126527
+    second: lasticons_67
+  - first:
+      213: -2304601925067007110
+    second: lasticons_68
+  - first:
+      213: 2864953318649646931
+    second: lasticons_69
+  - first:
+      213: 7998328942534424486
+    second: lasticons_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lasticons_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6088
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3acbf60bde9ca30800000000000000
+      internalID: 4236178266563322821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 6076
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7cff82cf8bb57c0800000000000000
+      internalID: -4081465244122101793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_2
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 6076
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2f85ba8af07a10800000000000000
+      internalID: 1905298116036209885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_3
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 6088
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f2d7011782fd580800000000000000
+      internalID: -8800270680785604806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_4
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 6085
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a17003a82a9f80800000000000000
+      internalID: -8099116299320188874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_5
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 6049
+        width: 1179
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e09b31a3f556540800000000000000
+      internalID: 5000507664308440594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5544
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52e8af43e85ca860800000000000000
+      internalID: 7542501209256026715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 5544
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d28d6cfa92e3b10800000000000000
+      internalID: 1963052322512186759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_8
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 5572
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab92a0be9144760800000000000000
+      internalID: 7441100981601417959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_9
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 5263
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9b9d81df6ba0b0800000000000000
+      internalID: -5716352356202078993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_10
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 5263
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9084b0074779bf020800000000000000
+      internalID: 2376659754719856649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_11
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 5263
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc05a33eceaf8180800000000000000
+      internalID: -9110871320494273341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_12
+      rect:
+        serializedVersion: 2
+        x: 5719
+        y: 5263
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d8382f50e2654a0800000000000000
+      internalID: -6605041200413831899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_13
+      rect:
+        serializedVersion: 2
+        x: 6267
+        y: 5263
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70992a8662591160800000000000000
+      internalID: 6996714096454897788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_14
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 5263
+        width: 400
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f71469fa992bb60800000000000000
+      internalID: 7760434087331987267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5085
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601fbf0b8db46370800000000000000
+      internalID: 8314979216995061857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_16
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 5072
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6a8014a398bef40800000000000000
+      internalID: 5758847431815505618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_17
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 4692
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2b6fe6021291070800000000000000
+      internalID: 8077523829850026680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_18
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 4692
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2ae0a351c74d30800000000000000
+      internalID: 4415710524586208491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_19
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 4692
+        width: 402
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374b32fcc349efb20800000000000000
+      internalID: 3170134176609580147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_20
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 4692
+        width: 404
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13791f93d624f0c0800000000000000
+      internalID: -4542963433760787683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_21
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 4692
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c4dafc4ba80f90800000000000000
+      internalID: -6987146474751211354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_22
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 4692
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd86b92241a090c0800000000000000
+      internalID: -4570976316241310286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_23
+      rect:
+        serializedVersion: 2
+        x: 7347
+        y: 4692
+        width: 397
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489863c0dc884730800000000000000
+      internalID: 3983588698668701772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4580
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45bdb957a8b03aa0800000000000000
+      internalID: -6183239259475036850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_25
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4580
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e786469c7578e0800000000000000
+      internalID: -1696312699764874191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_26
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 4572
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f8eb5c9e2528e0800000000000000
+      internalID: -1718916433680206867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4080
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2fc4ec0b2d36890800000000000000
+      internalID: -7465892100432923987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4080
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5efb5dd559bbcc0800000000000000
+      internalID: -3694194839076739677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_29
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 4051
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2e695a3e586750800000000000000
+      internalID: 6298387683579145237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_30
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 4069
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1590d01c0ae61f0800000000000000
+      internalID: -1049724912122900063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_31
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 4081
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba740c2e791c1aa0800000000000000
+      internalID: -6189043758218839370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_32
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 4097
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e737cf1b41cf20800000000000000
+      internalID: 3441114190146168227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_33
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 4080
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1922a97a2351ff0800000000000000
+      internalID: -66090924100120153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_34
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 3939
+        width: 337
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7354d73c58bee9190800000000000000
+      internalID: -7953660932146772681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_35
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 3939
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273860cc83ed7df10800000000000000
+      internalID: 2294546870691070834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_36
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 3939
+        width: 341
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f11dd46ae517a0800000000000000
+      internalID: -6406957175938091109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_37
+      rect:
+        serializedVersion: 2
+        x: 5753
+        y: 3939
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bbb91d0425c6e30800000000000000
+      internalID: 4498060566184311552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_38
+      rect:
+        serializedVersion: 2
+        x: 6294
+        y: 3981
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e26f7cc5021bf0800000000000000
+      internalID: -355215044740194211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_39
+      rect:
+        serializedVersion: 2
+        x: 6812
+        y: 3981
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac5750e8450c2680800000000000000
+      internalID: -8778635763092333395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3555
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390e086520a902690800000000000000
+      internalID: -7628928433933721453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_41
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 3421
+        width: 339
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa0530940168a60800000000000000
+      internalID: 7675840520673864291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_42
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 3421
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd660d725c94db0800000000000000
+      internalID: -4807094352450495676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_43
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 3421
+        width: 341
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0442b5f61ad690800000000000000
+      internalID: -7576718178583834823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_44
+      rect:
+        serializedVersion: 2
+        x: 5787
+        y: 3410
+        width: 337
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe8fe953844a9f0800000000000000
+      internalID: -458161866947367995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_45
+      rect:
+        serializedVersion: 2
+        x: 6305
+        y: 3421
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6faaaf2200b95c0800000000000000
+      internalID: -4207769276613200201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_46
+      rect:
+        serializedVersion: 2
+        x: 6816
+        y: 3421
+        width: 340
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92857ebf1bbcb49e0800000000000000
+      internalID: -1635990074323150807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_47
+      rect:
+        serializedVersion: 2
+        x: 7326
+        y: 3425
+        width: 338
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225cfb7edd6fd3da0800000000000000
+      internalID: -5963338898632358622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3012
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c536e927a77720800000000000000
+      internalID: 2843925488105539433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2480
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54975d85a3df7fd30800000000000000
+      internalID: 4465315982601451845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_50
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2491
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba690b8a5d82328a0800000000000000
+      internalID: -6331171753029495125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_51
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 2748
+        width: 178
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f0f2d3a09588c80800000000000000
+      internalID: -8320302411055951985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_52
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 2755
+        width: 135
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752224ba0e2f98a90800000000000000
+      internalID: -7311045473299455401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1997
+        width: 391
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56096836488fa2b50800000000000000
+      internalID: 6569336253962424421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_54
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1989
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68ac00b3c8c66d0800000000000000
+      internalID: -2995865467063990593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_55
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1989
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86fd1690c9f7d1f0800000000000000
+      internalID: -1020072185028544882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_56
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1994
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ca28b4e5e066b0800000000000000
+      internalID: -5304987590537329749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_57
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 2005
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e045ac36bd9ba0800000000000000
+      internalID: -6080503550293515779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_58
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1997
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad3dbe3c87046650800000000000000
+      internalID: 6225108883862273441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1547
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad01f45eca0fc20800000000000000
+      internalID: 3238278232953379529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1051
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce89114b2e222940800000000000000
+      internalID: 5269825277287567053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_61
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1047
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b2abc24064aaf10800000000000000
+      internalID: 2281713144960789266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_62
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1065
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7f89fe544102430800000000000000
+      internalID: 3756024379832072110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec69c592eec7c910800000000000000
+      internalID: 1857680843884555501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_64
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 527
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44251a8537b82f0800000000000000
+      internalID: -969554470267370271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_65
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 530
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5ffc800e6a6be0800000000000000
+      internalID: -1483252178620555948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947525b5880c87250800000000000000
+      internalID: 5942711400195577673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_67
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 5
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73ac30df21bef420800000000000000
+      internalID: 2665762848365126527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_68
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b13bb62c86400e0800000000000000
+      internalID: -2304601925067007110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_69
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f40383ddb52c720800000000000000
+      internalID: 2864953318649646931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasticons_70
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 8
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77d78dbc5cffe60800000000000000
+      internalID: 7998328942534424486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

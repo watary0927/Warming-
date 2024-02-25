@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package version="software5.7" xmlns="http://apple.com/itunes/importer">
+  <provider>QY2C4736MG</provider>
+  <team_id>QY2C4736MG</team_id>
+  <software>
+    <vendor_id>Watary.Warming</vendor_id>
+    <software_metadata>
+      <in_app_purchases>
+        <in_app_purchase>
+          <product_id>noah_appstore</product_id>
+          <reference_name>Noah</reference_name>
+          <type>non-consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>5</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="ja">
+              <title>ノア</title>
+              <description>最高難易度「ノア」を開放します。</description>
+            </locale>
+            <locale name="en-US">
+              <title>Noah</title>
+              <description>Unlock the most difficult mode "Noah".</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>noah.jpg</file_name>
+            <size>99131</size>
+            <checksum>e943d5ae1116d4773f093b99fade16cf</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>bgm_appstore</product_id>
+          <reference_name>BGM</reference_name>
+          <type>non-consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>3</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="ja">
+              <title>Brand New Earth</title>
+              <description>ゲームBGM「Brand New Earth」を開放します。</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>名称未設定-2.jpg</file_name>
+            <size>53116</size>
+            <checksum>49666da4412a4940289b7bea0de6d697</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+      </in_app_purchases>
+    </software_metadata>
+  </software>
+</package>

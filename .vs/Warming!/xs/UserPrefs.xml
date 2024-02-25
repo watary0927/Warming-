@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F26FCE05-F2F6-6E03-1C5B-5E864BB20C2D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AdShower.cs" Line="45" Column="31" />
+      <File FileName="Assets/Scripts/MenuController.cs" Line="48" Column="31" />
+      <File FileName="Assets/Scripts/Big.cs" />
+      <File FileName="Assets/Scripts/ChangeMode.cs" Line="74" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Warming!" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MenuController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ACTk.Editor PreferredExecutionTarget="cc9e20eb-1069-4537-af08-4d2cb94e21f6" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

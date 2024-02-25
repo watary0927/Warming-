@@ -1,0 +1,1363 @@
+fileFormatVersion: 2
+guid: 32c25847e6e4940f2a0df934fbffe076
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1420013058619477267
+    second: MoveOn_0
+  - first:
+      213: 1155501347494853547
+    second: MoveOn_1
+  - first:
+      213: 5992480245166530641
+    second: MoveOn_2
+  - first:
+      213: -5187687281405187709
+    second: MoveOn_3
+  - first:
+      213: -2409923584617525874
+    second: MoveOn_4
+  - first:
+      213: -3722409504054733776
+    second: MoveOn_5
+  - first:
+      213: -4471859990577488762
+    second: MoveOn_6
+  - first:
+      213: -2124424901556970845
+    second: MoveOn_7
+  - first:
+      213: -3922695460767377830
+    second: MoveOn_8
+  - first:
+      213: 9065810546464369421
+    second: MoveOn_9
+  - first:
+      213: 9004768142447411310
+    second: MoveOn_10
+  - first:
+      213: 3443946295701120645
+    second: MoveOn_11
+  - first:
+      213: 5280250419207995573
+    second: MoveOn_12
+  - first:
+      213: 8239247991279073048
+    second: MoveOn_13
+  - first:
+      213: -7916555428608754114
+    second: MoveOn_14
+  - first:
+      213: 3615611255535323498
+    second: MoveOn_15
+  - first:
+      213: 8526305843261624985
+    second: MoveOn_16
+  - first:
+      213: 2687144836954371207
+    second: MoveOn_17
+  - first:
+      213: 7799690380720914198
+    second: MoveOn_18
+  - first:
+      213: 6965936207553149586
+    second: MoveOn_19
+  - first:
+      213: -6792428040854080261
+    second: MoveOn_20
+  - first:
+      213: 3094578928702350601
+    second: MoveOn_21
+  - first:
+      213: 7250208075228199112
+    second: MoveOn_22
+  - first:
+      213: 6219533267805786188
+    second: MoveOn_23
+  - first:
+      213: -1981242836373662857
+    second: MoveOn_24
+  - first:
+      213: 8284905499692050043
+    second: MoveOn_25
+  - first:
+      213: 2719703005312031564
+    second: MoveOn_26
+  - first:
+      213: -8134842688035447899
+    second: MoveOn_27
+  - first:
+      213: -6570183478096277873
+    second: MoveOn_28
+  - first:
+      213: -3890480393227746327
+    second: MoveOn_29
+  - first:
+      213: 5035466413223471432
+    second: MoveOn_30
+  - first:
+      213: 5078352292716536593
+    second: MoveOn_31
+  - first:
+      213: 7684442860827452143
+    second: MoveOn_32
+  - first:
+      213: -1782297052723096689
+    second: MoveOn_33
+  - first:
+      213: 1198446906298307254
+    second: MoveOn_34
+  - first:
+      213: 5364990053202808866
+    second: MoveOn_35
+  - first:
+      213: 8286081585618017345
+    second: MoveOn_36
+  - first:
+      213: 477818820866962606
+    second: MoveOn_37
+  - first:
+      213: -9183372191369861225
+    second: MoveOn_38
+  - first:
+      213: -2364408303989083791
+    second: MoveOn_39
+  - first:
+      213: 997459436201171336
+    second: MoveOn_40
+  - first:
+      213: -2975928390121947832
+    second: MoveOn_41
+  - first:
+      213: 5981088425069169455
+    second: MoveOn_42
+  - first:
+      213: -6529986563350786466
+    second: MoveOn_43
+  - first:
+      213: -7758323371750169423
+    second: MoveOn_44
+  - first:
+      213: 8375153711002418092
+    second: MoveOn_45
+  - first:
+      213: 1480983899176076663
+    second: MoveOn_46
+  - first:
+      213: -6472879694716934504
+    second: MoveOn_47
+  - first:
+      213: -7184862018340029043
+    second: MoveOn_48
+  - first:
+      213: 9037446717528099582
+    second: MoveOn_49
+  - first:
+      213: 2056003901885051878
+    second: MoveOn_50
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoveOn_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1273
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f19095a91b4ce0800000000000000
+      internalID: -1420013058619477267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1275
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab7aea7a5a290010800000000000000
+      internalID: 1155501347494853547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1269
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15062b09801992350800000000000000
+      internalID: 5992480245166530641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1275
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389280237e1a108b0800000000000000
+      internalID: -5187687281405187709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1269
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d4903a44b3e8ed0800000000000000
+      internalID: -2409923584617525874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1086
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034974a3748575cc0800000000000000
+      internalID: -3722409504054733776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1078
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cd8501803c0f1c0800000000000000
+      internalID: -4471859990577488762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1086
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad3b6cec68482e0800000000000000
+      internalID: -2124424901556970845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1084
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a565ce20349cf89c0800000000000000
+      internalID: -3922695460767377830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1080
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0baff6c8aa30dd70800000000000000
+      internalID: 9065810546464369421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 901
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60055f8aec57fc70800000000000000
+      internalID: 9004768142447411310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 903
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a9ccb8ea5bcf20800000000000000
+      internalID: 3443946295701120645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 903
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b00002c7c7374940800000000000000
+      internalID: 5280250419207995573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 910
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173a880560b75270800000000000000
+      internalID: 8239247991279073048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 674
+        width: 290
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb51908ceb22290800000000000000
+      internalID: -7916555428608754114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 676
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694614d74b3d2230800000000000000
+      internalID: 3615611255535323498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 674
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99252f97df5835670800000000000000
+      internalID: 8526305843261624985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 676
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b0bafdf7aa4520800000000000000
+      internalID: 2687144836954371207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 676
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb6e4a3111e3c60800000000000000
+      internalID: 7799690380720914198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 696
+        width: 14
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abc3bd21afba060800000000000000
+      internalID: 6965936207553149586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 674
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf47d764fa27cb1a0800000000000000
+      internalID: -6792428040854080261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 518
+        width: 308
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90566bec32722fa20800000000000000
+      internalID: 3094578928702350601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 516
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c835a7c4d9ed9460800000000000000
+      internalID: 7250208075228199112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 516
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d948fd88305650800000000000000
+      internalID: 6219533267805786188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 516
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773192c23263184e0800000000000000
+      internalID: -1981242836373662857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 518
+        width: 14
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7623da18a5e9f270800000000000000
+      internalID: 8284905499692050043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 518
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9f2649735eb520800000000000000
+      internalID: 2719703005312031564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 361
+        width: 328
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab96fbecab3b1f80800000000000000
+      internalID: -8134842688035447899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 434
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e4eeedfe402d4a0800000000000000
+      internalID: -6570183478096277873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 434
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c90ce1bc320ac0800000000000000
+      internalID: -3890480393227746327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 361
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8496896160291e540800000000000000
+      internalID: 5035466413223471432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 381
+        width: 14
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e8a3018ee97640800000000000000
+      internalID: 5078352292716536593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 361
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe228686110a4aa60800000000000000
+      internalID: 7684442860827452143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 361
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83d63806420447e0800000000000000
+      internalID: -1782297052723096689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 361
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b293149c1db1a010800000000000000
+      internalID: 1198446906298307254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 359
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22058a84706447a40800000000000000
+      internalID: 5364990053202808866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 359
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cdaa2fc431ef270800000000000000
+      internalID: 8286081585618017345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 196
+        width: 327
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea475cc9fad81a600800000000000000
+      internalID: 477818820866962606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 198
+        width: 14
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e235c5ab1e8080800000000000000
+      internalID: -9183372191369861225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_39
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 196
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1713fb8bc2fef2fd0800000000000000
+      internalID: -2364408303989083791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d1ac8210b7dd00800000000000000
+      internalID: 997459436201171336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 198
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84df7c575e063b6d0800000000000000
+      internalID: -2975928390121947832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 218
+        width: 14
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc272cb38110350800000000000000
+      internalID: 5981088425069169455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_43
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 196
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e076761d3d065a0800000000000000
+      internalID: -6529986563350786466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 34
+        width: 320
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4683eaff5e45490800000000000000
+      internalID: -7758323371750169423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 109
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf79b3de58a3470800000000000000
+      internalID: 8375153711002418092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 36
+        width: 14
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775867c72038d8410800000000000000
+      internalID: 1480983899176076663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 34
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ee826636bb26a0800000000000000
+      internalID: -6472879694716934504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d75a4bf0e3a4c90800000000000000
+      internalID: -7184862018340029043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 36
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa48ca38e57b6d70800000000000000
+      internalID: 9037446717528099582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveOn_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 34
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3fca4d7a4688c10800000000000000
+      internalID: 2056003901885051878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
